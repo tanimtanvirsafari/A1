@@ -190,4 +190,13 @@ color: #FF0000;
 #coming-soon-year-details p{
     margin: 8px 0 12px 0; 
 }
+    
+#comming-soon-banner{
+    border-radius: 463px;
+    border: 15px solid #FF0000;
+    padding: 20px;
+
+}
+    
+
 
