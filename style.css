@@ -2,12 +2,14 @@
     margin: 0;
     padding: 0;
 }
-
+body {
+    width: 1370px;
+    margin: auto;
+}
 /* Banner Section style */
 #main-banner {
-    width: 1370px;
+    width: 100%;
     height: 600px;
-    margin: auto;
     background-image: url("resources/Banner Image.png");
     background-repeat: no-repeat;
     background-position: center;
@@ -44,3 +46,34 @@
     margin-bottom: 8px;
     text-align: center;
 }
+
+/* discount-new-year SEction */
+#discount-new-year {
+    width: 500px;
+    height: auto;
+    margin:3rem auto;
+}
+#discount-new-year-titles {
+    text-align: center;
+}
+#discount-new-year-titles h1 {
+    text-align: center;
+    color: #FF0000;
+    font-weight: bold;
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+}
+#discount-new-year-titles h3{
+    font-size: 1.7rem;
+    margin-top: 10px;
+
+}
+#discount-new-year-titles h5{
+    text-align: center;
+    color: #FF0000;
+}
+#discount-new-year-img {
+    margin-top: 1.5rem;
+    width: 100%;
+}
+
