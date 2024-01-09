@@ -278,4 +278,55 @@ color: #FF0000;
     padding: 6px;
 }
 
+.subscribe-background-color{
+    background: rgba(255, 0, 0, 0.05);
+    width: 1320px;
+    height: 530px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    
+
+}
+
+#image-61{
+    position:absolute;
+    
+    height: 150px;
+    width: 150px;
+    transform: translate(20px);
+
+
+}
+
+#Subscribe-title{
+    color: #000000;
+    text-align: center;
+    font-size: 55px;
+    font-family: merriwether;
+    width: 800;
+    line-height: normal;
+    text-transform: capitalize;
+    position: absolute;
+    margin: 270px 404px 286px;
+    
+    
+}
+
+
+#subscribe-discription{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-size: 16;
+    font-weight: 400;
+    margin: 2rem;
+    font-style: normal;
+    line-height: 32px;
+    margin:300px 200px 286px;
+}
+
+    
+    
+
+
+
 
